@@ -13,7 +13,7 @@ Dieser Workshop ist gewissermassen ein Mashup aus bestehenden Projekten und Info
 
 Das "Installationsrepo" findet sich hier: https://github.com/linuxmuster/linuxmuster-omd
 
-## Installation auf einem Paspi
+## Installation auf einem Raspi
 
 * Es gibt kein Raspberry-Image mehr
 * Basis ist ein „nacktes“ raspbian lite stretch
